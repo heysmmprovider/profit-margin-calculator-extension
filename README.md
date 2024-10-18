@@ -9,7 +9,9 @@ This Chrome extension is designed to calculate and display profit margins for or
 - Displays the profit margin directly in the table next to the respective order's cost and charge data.
 
 ## Installation
-
+## Method 1
+You can [download](https://chromewebstore.google.com/detail/perfect-panel-profit-calc/bkckoalbjjcjbpgkpiaoenbgjfcbilek) on Chrome Extension Store. 
+## Metdod 2:
 1. Clone this repository to your local machine.
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable Developer Mode (top right corner).
